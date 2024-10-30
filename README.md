@@ -1,2 +1,2 @@
 # repo1
-Repo for trests
+Repo for tests
